@@ -59,11 +59,11 @@ var respecConfig =
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
   //publishDate: "2019-10-08",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/geonovum/UOI-",
+  github: "https://github.com/geonovum/disgeo-UOI-GPvE",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/geonovum/Rapport/issues",
+  issueBase: "https://github.com/geonovum/disgeo-UOI-GPvE/issues",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://github/geonovum/Rapport",
+  edDraftURI: "https://github/geonovum.io/disgeo-UOI-GPvE"",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
@@ -73,36 +73,36 @@ var respecConfig =
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
-   // {
-   //   name:       "Naam Editor-n",
-   //   company:    "Geonovum",
-   //   companyURL: "https://www.geonovum.nl"
-   // }, 
+    {
+     name:       "Derk Hup",
+     company:    "Geonovum",
+      companyURL: "https://www.geonovum.nl"
+    }, 
   ],
   //-- de namen van de Author(s) ------------------------------------------------------
   //-- vul in: per Author: name:, company:, companyURL: -------------------------------
   authors: 
   [
     {
-      name:       "Gerard Wolbers",
-      company:    "VNG Realisatie",
-      companyURL: "https://www.vngrealisatie.nl"
-    },
-    {
-      name:       "Jan van Gelder",
+      name:       "Eric van Capelleveen",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     },
-    {
-      name:       "Bart-Jan de Leuw",
-      company:    "Ministerie van BZK",
-      companyURL: "https://www.geobasisregistraties.nl"
-    },
-    {
-      name:       "Marcel Reuvers",
-      company:    "Kadaster",
-      companyURL: "https://www.kadaster.nl"
-    }, 
+    //{
+    //  name:       "Jan van Gelder",
+    //  company:    "Geonovum",
+    //  companyURL: "https://www.geonovum.nl"
+    //},
+    //{
+    //  name:       "Bart-Jan de Leuw",
+    //  company:    "Ministerie van BZK",
+    //  companyURL: "https://www.geobasisregistraties.nl"
+    //},
+    //{
+    //  name:       "Marcel Reuvers",
+    //  company:    "Kadaster",
+    //  companyURL: "https://www.kadaster.nl"
+    //}, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
   shortName: "uoi",  	              // Wordt gebruikt in de document URL
