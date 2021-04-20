@@ -88,11 +88,11 @@ var respecConfig =
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     },
-    //{
-    //  name:       "Jan van Gelder",
-    //  company:    "Geonovum",
-    //  companyURL: "https://www.geonovum.nl"
-    //},
+    {
+      name:       "Frank Kooij",
+      company:    "Kadaster",
+      companyURL: "https://www.kadaster.nl"
+    },
     //{
     //  name:       "Bart-Jan de Leuw",
     //  company:    "Ministerie van BZK",
