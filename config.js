@@ -69,35 +69,45 @@ var respecConfig =
   editors: 
  [
     {
-      name:       "Naam Editor-1",
+      name:       "Jan van Gelder",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
-    {
-      name:       "Naam Editor-n",
-      company:    "Geonovum",
-      companyURL: "https://www.geonovum.nl"
-    }, 
+   // {
+   //   name:       "Naam Editor-n",
+   //   company:    "Geonovum",
+   //   companyURL: "https://www.geonovum.nl"
+   // }, 
   ],
   //-- de namen van de Author(s) ------------------------------------------------------
   //-- vul in: per Author: name:, company:, companyURL: -------------------------------
   authors: 
   [
     {
-      name:       "Naam Auteur-1",
-      company:    "Geonovum",
-      companyURL: "https://www.geonovum.nl"
-    }, 
+      name:       "Gerard Wolbers",
+      company:    "VNG Realisatie",
+      companyURL: "https://www.vngrealisatie.nl"
+    },
     {
-      name:       "Naam Auteur-2",
+      name:       "Jan van Gelder",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
+    },
+    {
+      name:       "Bart-Jan de Leuw",
+      company:    "Ministerie van BZK",
+      companyURL: "https://www.geobasisregistraties.nl"
+    },
+    {
+      name:       "Marcel Reuvers",
+      company:    "Kadaster",
+      companyURL: "https://www.kadaster.nl"
     }, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
   shortName: "uoi",  	              // Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
-  pubDomain: "uoi", 	              // Energie transitie
+  pubDomain: "disgeo", 	            // Doorontwikkeling in Samenhang
   //pubDomain: "mim", 	            // Metamodel Informatie Modellering
   //pubDomain: "bor", 	            // Beheer Openbare Ruimte
   //pubDomain: "bro", 	            // Basisregistratie Ondergrond
