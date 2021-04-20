@@ -92,7 +92,7 @@ var respecConfig =
       name:       "Frank Kooij",
       company:    "Kadaster",
       companyURL: "https://www.kadaster.nl"
-    }
+    },
     //{
     //  name:       "Bart-Jan de Leuw",
     //  company:    "Ministerie van BZK",
