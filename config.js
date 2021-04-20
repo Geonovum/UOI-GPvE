@@ -59,11 +59,11 @@ var respecConfig =
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
   //publishDate: "2019-10-08",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/geonovum/disgeo-UOI-GPvE",
+  github: "https://github.com/geonovum/UOI-GPvE",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/geonovum/disgeo-UOI-GPvE/issues",
+  issueBase: "https://github.com/geonovum/UOI-GPvE/issues",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://github/geonovum.io/disgeo-UOI-GPvE",
+  edDraftURI: "https://github/geonovum.io/UOI-GPvE",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
@@ -89,9 +89,24 @@ var respecConfig =
       companyURL: "https://www.geonovum.nl"
     },
     {
+      name:       "Erwin Folmer ",
+      company:    "Kadaster",
+      companyURL: "https://www.kadaster.nl"
+    },
+    {
+      name:       "Paul Janssen",
+      company:    "Geonovum",
+      companyURL: "https://www.geonovum.nl"
+    },
+    {
       name:       "Frank Kooij",
       company:    "Kadaster",
       companyURL: "https://www.kadaster.nl"
+    },
+    {
+      name:       "Wilko Quak",
+      company:    "geonovum",
+      companyURL: "https://www.geonovum.nl"
     },
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
