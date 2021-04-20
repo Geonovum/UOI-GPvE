@@ -63,7 +63,7 @@ var respecConfig =
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
   issueBase: "https://github.com/geonovum/disgeo-UOI-GPvE/issues",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://github/geonovum.io/disgeo-UOI-GPvE"",
+  edDraftURI: "https://github/geonovum.io/disgeo-UOI-GPvE",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
