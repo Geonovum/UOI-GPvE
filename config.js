@@ -93,16 +93,6 @@ var respecConfig =
       company:    "Kadaster",
       companyURL: "https://www.kadaster.nl"
     },
-    //{
-    //  name:       "Bart-Jan de Leuw",
-    //  company:    "Ministerie van BZK",
-    //  companyURL: "https://www.geobasisregistraties.nl"
-    //},
-    //{
-    //  name:       "Marcel Reuvers",
-    //  company:    "Kadaster",
-    //  companyURL: "https://www.kadaster.nl"
-    //}, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
   shortName: "uoi",  	              // Wordt gebruikt in de document URL
