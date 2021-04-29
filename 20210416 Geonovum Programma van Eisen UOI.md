@@ -1,4 +1,4 @@
-![](./media/image1.png)
+![](./media/afbeelding0.png)
 
 Rapport
 
@@ -117,23 +117,47 @@ In de gebouwde omgeving komen zowel fysieke als virtuele[^fysiekvirtueel] object
 
 [Granulariteit](https://nl.wikipedia.org/wiki/Granulariteit_(gegevens)) (de mate waarin detailgegevens van een entiteit (lees object) bekend zijn) kan daarin aanzienlijk verschillen per domein en/of registratie. Er worden tevens verschillen geconstateerd in de (de)compositie[^decompositie] waarin een object wordt gedetermineerd in samenstellende delen. Daarmee kan het begrip object in de gebouwde omgeving een object als bouwwerk, een verzameling van bouwwerken, maar ook detailonderdelen van dat bouwwerk betreffen. In de onderstaande figuur wordt dat mooi gevisualiseerd.
 
-![](./media/image3.jpeg)
+<figure id="afbeelding1">
+    <img src="./media/afbeelding1.jpg" alt="afbeelding1">
+    <figcaption>Samenstellende delen van een bouwwerk</figcaption>
+</figure> 
 
+bron [ESRI](https://www.esri.nl/nl-nl/home)
+
+<!--
+![](./media/image3.jpeg)
 Figuur 1. Samenstellende delen van een bouwwerk (bron [ESRI](https://www.esri.nl/nl-nl/home))
+-->
 
 Een soortgelijk figuur is ook denkbaar voor de beheer-registraties van een bouwwerk en de overige locatie-gebonden administraties van organisaties die vastgoed of objecten in de gebouwde omgeving beheren en exploiteren.
 
 > De figuur toont een visualisatie van het Bouwwerkinformatiemodel (BIM)[^bim] in het bouwdomein, waarin hier de buitenkant en de binnenkant van het gebouw vanuit de kleinst mogelijke details (bouwwerkelementen) is opgebouwd, vastgelegd en beheerd. Dit levert uiteindelijk een compleet 3D-model van het gebouw op, waarbij de buitenkant een afgeleide is van de verschillende elementen c.q. niveaus uit BIM (vloeren, wanden, binnenruimten, bouwlagen etc.). (bron [DIS-GEO rapport Eindrapport werkgroep bouwwerken](https://www.geobasisregistraties.nl/documenten/rapport/2020/02/26/verkenning-samenhangende-objectenregistratie-eindrapport-werkgroep-bouwwerken))
 
-![](./media/image4.png)
+<figure id="afbeelding2">
+    <img src="./media/afbeelding2.png" alt="afbeelding2">
+    <figcaption>Samenstellende delen in een het domein beheer-registraties</figcaption>
+</figure> 
 
-Figuur 2. Samenstellende delen in een het domein beheer-registraties (bron [Woonconnect](https://woonconnect.nl/))
+bron [Woonconnect](https://woonconnect.nl/)
+
+<!--
+![](./media/image4.png)
+Figuur 2.  (bron [Woonconnect](https://woonconnect.nl/))
+ -->
 
 Een soortgelijk figuur is ook denkbaar voor de geo-registraties van een bouwwerk en de overige locatie-gebonden administraties van overheden die raken aan fysieke objecten zoals plan-, bouw- en energieregels.
 
-![](./media/image5.svg)
+<figure id="afbeelding3">
+    <img src="./media/afbeelding3.png" alt="afbeelding3">
+    <figcaption>Samenstellende delen in een het domein geo-registraties</figcaption>
+</figure> 
 
+Bronnen [Toba Architecten](https://toba.nl/) en [DISGEO](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang/objectenregistratie)
+
+<!-- 
+![](./media/image5.svg)
 Figuur 3. Samenstellende delen in een het domein geo-registraties (Bronnen [Toba Architecten](https://toba.nl/) en [DISGEO](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang/objectenregistratie))
+-->
 
 [^fysiekvirtueel]: Virtuele objecten zijn door de mens gehanteerde objecten om een specifieke eigenschap van een fysiek object of gebied vast te leggen. Denk aan een WOZ-object of een werkingsgebied van een juridische regel. De objectbeschrijving van zowel een virtueel object als een fysiek object zijn representaties van de werkelijkheid zoals deze door de mens wordt beschouwd.
 [^decompositie]: Deel/geheel opbouw (aggregatie cq. detaillering)
@@ -195,9 +219,15 @@ Een UOI-code stelsel bestaat functioneel uit meerdere onderdelen die samen het b
 
 Dit is in onderstaande figuur weergegeven in relatie tot het doel van een UOI-code.
 
-![](image6.svg)
+<figure id="afbeelding4">
+    <img src="./media/afbeelding4.png" alt="afbeelding4">
+    <figcaption>Onderdelen van een UOI-code stelsel</figcaption>
+</figure> 
 
+<!--
+![](image6.svg)
 Figuur 4: Onderdelen van een UOI-code stelsel
+-->
 
 We lichten deze onderdelen nader toe. Met systeem bedoelen we hier het geheel van afspraken en mechanismes waarmee de beoogde werking borgen.
 
@@ -235,9 +265,15 @@ In onderstaande figuur is een eerste visualisatie gemaakt van een UOI-code stels
 
 Op laag 5 vindt de controle op de veilige digitale identiteit plaats waarbij tevens de autorisatie plaatsvindt. Een autorisatie die uit laag 6 afkomstig is waarin de rol-gebaseerde autorisatieprofielen worden benoemd. Op laag 7 bevinden zich de gebruikers van de UOI-code die elk vanuit hun rol één of meerdere gegevensverzamelingen voeden dan wel via de UIO-code willen bevragen. De visualisatie is indicatief en beschrijft niet uitputtend alle mogelijke actoren en databanken in de gebouwde omgeving.
 
-![](./media/image7.png)
+<figure id="afbeelding5">
+    <img src="./media/afbeelding5.png" alt="afbeelding5">
+    <figcaption>Impressie van een UOI-code stelsel</figcaption>
+</figure> 
 
+<!-->
+![](./media/image7.png)
 Figuur 5: Impressie van een UOI-code stelsel
+-->
 
 In de databronnen-laag is eveneens het slimme gebouw (Smart Building) benoemd. Een bouwwerk dat voorzien is van allerhande sensoren die als databron iets over het bouwwerk kan vertellen.
 
